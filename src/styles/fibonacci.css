@@ -1,0 +1,53 @@
+
+.fibonacciTitle{
+    width: 90%;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.inputFibo{
+    background-color: #d6d6d6;
+    border-radius: 10px;
+    border: 1px solid #d6d6d6;
+    height: 30px;
+    padding-left: 10px;
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 20px;
+    border-radius: 10px;
+ 
+}
+
+.fiboNumbersContainer{
+    display: flex;
+    margin-left: 10%;
+    background-color: rgb(208, 205, 205);
+    max-width: 80%;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+    margin-bottom: 40px;
+}
+
+.fiboNumbers{
+    margin-right: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.buttonGenerate{
+    width: 100px;
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 10%;
+    cursor: pointer;
+}
