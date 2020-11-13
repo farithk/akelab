@@ -225,6 +225,8 @@ body {
    .movieFilter{
        width: 95%;
        margin-left: -5%;
+      
+      
    }
 
    .headerSearch{
@@ -262,5 +264,22 @@ body {
         top: 280px;
         margin-left: calc(40%);
     }
-    
+
+    .movieDescription{
+        display: block;
+    }
+
+    .moviePosterContainer{
+        width: 60%;
+        margin-left: 20%;
+       
+    }
+
+    .description{
+        width: 90%;
+        margin-left: 5%;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+ 
 }
